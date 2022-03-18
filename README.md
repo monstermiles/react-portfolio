@@ -18,9 +18,7 @@
       ## Description:
       This is a coding portfolio made using React and AntDesign.  It has an "About Me" page, a portfolio of some of my coding projects, a link to download a copy of my resume, and a contact page. The contact page isnt fully functional... yet.
 
-      This project is deployed to Heroku instead of Github Pages.  I wasn't able to get Github Pages working, even with the help of a TA. Sorry. 
-
-      Deployed app:  
+      This project is not deployed.  Even with help from the professor and TAs, I have no idea why I cant get it deployed to GitHub Pages or Heroku.  I've tried everything I can think of, includign starting a new repo several times. Sorry.
 
 
     
@@ -31,8 +29,7 @@
 
 
       ## Installation:
-      No installation needed, just use the link to the deployed project.
-
+      No installation needed.
       
       ## Usage:
       Just take a look.
